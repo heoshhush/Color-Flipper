@@ -47,17 +47,17 @@ section {
   letter-spacing: 5px;
 }
 .colorBar {
-  width: 970px;
+  width: 1100px;
   background-color: black;
   color: white;
   font-size: 48px;
   padding: 10px 20px 14px 20px;
   border-radius: 10px;
 }
-.myColor {
+.myColorText {
   color: wheat;
 }
-.changeColor {
+.changeColorBtn {
   font-size: 20px;
   font-weight: bold;
   padding: 10px 20px 8px 20px;
